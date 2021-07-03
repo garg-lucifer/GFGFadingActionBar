@@ -9,3 +9,4 @@
     android:background="#ffffff"
     android:scaleType="centerCrop"
     android:src="@drawable/gfglongpng" />
+<!--Add header image source in android:src-->
